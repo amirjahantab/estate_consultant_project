@@ -7,8 +7,8 @@ from advertisment import ApartmentSell, ApartmentRent, HouseSell, HouseRent
 
 FIRST_NAME = ['amir', 'mohammad', 'fati', 'negar']
 LAST_NAEM = ['jahantab', 'gholami', 'bahadori', 'shabani']
-PHONE_NUMBER = ['+98-903-727-6263', '+98-917-604-4188', '+98-935-259-3940',
-                '+98-917-508-0680', '+98-921-592-0544']
+PHONE_NUMBER = ['+98-903-000-6263', '+98-917-000-4188', '+98-935-000-3940',
+                '+98-917-000-0680', '+98-921-000-0544']
 
 
 def create_sample():
